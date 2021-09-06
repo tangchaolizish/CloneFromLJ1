@@ -1,0 +1,6 @@
+name: LJ
+version: 1.0.0
+description: Created by LJ
+engine:
+  type: ARM
+  templatePath: azuredeploy.json
