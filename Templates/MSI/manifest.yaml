@@ -1,6 +1,6 @@
 name: MSI-1
 version: 1.0.0
-description: An MSI
+description: An MSI-1
 engine:
   type: ARM
   templatePath: azuredeploy.json
